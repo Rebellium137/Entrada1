@@ -153,18 +153,12 @@
 </channels>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<channels>
-<channel>
-<name>[B] TERRO[/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://pastebin.com/raw/PG7jef05</externallink>
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] FILMES DE TERRO[COLOR deeppink]|[/COLOR]</info>
+<canais>
+<canal>
+<name> [B] FAROESTE [/ B] </name>
+<thumbnail> https://ia801500.us.archive.org/26/items/lancamento_202007/faroeste.jpg </thumbnail>
+<externallink> https://pastebin.com/raw/PK9XqQ1s </externallink>
+<fanart> https://archive.org/download/64710/64710.jpg </fanart>
+<info> [COLOR skyblue] * [/ COLOR] - Os Melhores filmes de faroeste - [COLOR skyblue] * [/ COLOR] </info>
 </channel>
 </channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
