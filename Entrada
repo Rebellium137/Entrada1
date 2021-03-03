@@ -14,7 +14,7 @@ Os canais são revisados todos os dias, se travar, ficar saindo, ou acontecer al
 <channels>
 <channel>
 <name> ---->[B] FILME[/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2v81al37VXwxKuppHVAAXKvnXpJo4jxFoqiZdiQw20A4b6H7UeJOIspw&s=10</thumbnail>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBFLEgFRTTMZNtsNHYWsDQEzkGeg8REdoEg&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/Rebellium137/Entrada1/main/Categoria%20de%20filmes</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2v81al37VXwxKuppHVAAXKvnXpJo4jxFoqiZdiQw20A4b6H7UeJOIspw&s=10</fanart>
 <info>
@@ -24,3 +24,22 @@ Os canais são revisados todos os dias, se travar, ficar saindo, ou acontecer al
 </channel>
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name> ---->[B] SÉRIES[/B]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBFLEgFRTTMZNtsNHYWsDQEzkGeg8REdoEg&usqp=CAU</thumbnail>
+<externallink>https://pastebin.com/raw/Kdp6UHUe</externallink>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2v81al37VXwxKuppHVAAXKvnXpJo4jxFoqiZdiQw20A4b6H7UeJOIspw&s=10</fanart>
+<info>
+ 
+ Estamos atualizando com frequência, aguarde. Nosso addon se baseia em torrent
+</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
+
