@@ -1,0 +1,710 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", ARTE 1 FullHDÂ¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX HD
+http://painel.futuryiptv.com:8880/656565/123456/71361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FX SD
+http://painel.futuryiptv.com:8880/656565/123456/71362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Megapix FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71364
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MEGAPIX HD
+http://painel.futuryiptv.com:8880/656565/123456/71365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Megapix SD
+http://painel.futuryiptv.com:8880/656565/123456/71366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Paramount Channel FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71367
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Paramount Channel HD
+http://painel.futuryiptv.com:8880/656565/123456/71368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sony FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sony HD
+http://painel.futuryiptv.com:8880/656565/123456/71371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sony SD
+http://painel.futuryiptv.com:8880/656565/123456/71372
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Space FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71374
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TCM SD
+http://painel.futuryiptv.com:8880/656565/123456/71386
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT HD
+http://painel.futuryiptv.com:8880/656565/123456/71389
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TNT SERIES SD
+http://painel.futuryiptv.com:8880/656565/123456/71394
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Warner Channel SD
+http://painel.futuryiptv.com:8880/656565/123456/71398
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BabyTV HD
+http://painel.futuryiptv.com:8880/656565/123456/71973
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BabyTV SD
+http://painel.futuryiptv.com:8880/656565/123456/71974
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Boomerang FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71404
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Boomerang HD
+http://painel.futuryiptv.com:8880/656565/123456/71405
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BOOMERANG SD
+http://painel.futuryiptv.com:8880/656565/123456/71406
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cartoon Network FullHD (H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71408
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cartoon Network HD
+http://painel.futuryiptv.com:8880/656565/123456/71409
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", CartoonNetwork  SD
+http://painel.futuryiptv.com:8880/656565/123456/71410
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY KIDS 4K
+http://painel.futuryiptv.com:8880/656565/123456/71407
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Kids FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71411
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Kids HD
+http://painel.futuryiptv.com:8880/656565/123456/71412
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney Channel FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71414
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney Channel HD
+http://painel.futuryiptv.com:8880/656565/123456/71415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY CHANNEL SD
+http://painel.futuryiptv.com:8880/656565/123456/71416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney Jr SD
+http://painel.futuryiptv.com:8880/656565/123456/71419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY XD  FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISNEY XD HD
+http://painel.futuryiptv.com:8880/656565/123456/71421
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Disney XD SD
+http://painel.futuryiptv.com:8880/656565/123456/71422
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gloob FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gloob HD
+http://painel.futuryiptv.com:8880/656565/123456/71424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gloob SD
+http://painel.futuryiptv.com:8880/656565/123456/71425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gloobinho HD¹
+http://painel.futuryiptv.com:8880/656565/123456/71426
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Gloobinho SD
+http://painel.futuryiptv.com:8880/656565/123456/71427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Kuriakos Kids
+http://painel.futuryiptv.com:8880/656565/123456/71428
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NATGEO KIDS 4K
+http://painel.futuryiptv.com:8880/656565/123456/71892
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NAT GEO KIDS FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71429
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nat Geo Kids HD
+http://painel.futuryiptv.com:8880/656565/123456/71430
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NAT GEO KIDS SD
+http://painel.futuryiptv.com:8880/656565/123456/71431
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nick JR FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71432
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nick Jr HD
+http://painel.futuryiptv.com:8880/656565/123456/71433
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICK JR SD¹
+http://painel.futuryiptv.com:8880/656565/123456/71434
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NICKELODEON FullHD (h265)
+http://painel.futuryiptv.com:8880/656565/123456/71435
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nickelodeon HD
+http://painel.futuryiptv.com:8880/656565/123456/71436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nickelodeon SD
+http://painel.futuryiptv.com:8880/656565/123456/71437
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Retro Cartoon 2
+http://painel.futuryiptv.com:8880/656565/123456/71438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Retrô Cartoon
+http://painel.futuryiptv.com:8880/656565/123456/71439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Tooncast HD
+http://painel.futuryiptv.com:8880/656565/123456/71440
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Tooncast SD
+http://painel.futuryiptv.com:8880/656565/123456/71441
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Zoomoo HD
+http://painel.futuryiptv.com:8880/656565/123456/71443
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Zoomoo SD
+http://painel.futuryiptv.com:8880/656565/123456/71444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Chef TV
+http://painel.futuryiptv.com:8880/656565/123456/71448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Comedy Central FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71449
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Comedy Central HD
+http://painel.futuryiptv.com:8880/656565/123456/71450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Comedy Central SD
+http://painel.futuryiptv.com:8880/656565/123456/71451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Curta HD
+http://painel.futuryiptv.com:8880/656565/123456/71452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Curta! SD
+http://painel.futuryiptv.com:8880/656565/123456/71453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DJing
+http://painel.futuryiptv.com:8880/656565/123456/71454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DJing Animation
+http://painel.futuryiptv.com:8880/656565/123456/71455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E! HD
+http://painel.futuryiptv.com:8880/656565/123456/71456
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", E! SD
+http://painel.futuryiptv.com:8880/656565/123456/71457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FashionTV SD
+http://painel.futuryiptv.com:8880/656565/123456/71458
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Food Network FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Food Network HD
+http://painel.futuryiptv.com:8880/656565/123456/71460
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Food Network  SD
+http://painel.futuryiptv.com:8880/656565/123456/71461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT HD
+http://painel.futuryiptv.com:8880/656565/123456/71463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", GNT SD
+http://painel.futuryiptv.com:8880/656565/123456/71464
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Lifetime HD
+http://painel.futuryiptv.com:8880/656565/123456/71465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Lifetime SD
+http://painel.futuryiptv.com:8880/656565/123456/71466
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Mais Globosat HD
+http://painel.futuryiptv.com:8880/656565/123456/71467
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Mais Globosat SD
+http://painel.futuryiptv.com:8880/656565/123456/71468
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV Clipes
+http://painel.futuryiptv.com:8880/656565/123456/71469
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71470
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV HD
+http://painel.futuryiptv.com:8880/656565/123456/71471
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MTV SD
+http://painel.futuryiptv.com:8880/656565/123456/71472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Multishow 4K
+http://painel.futuryiptv.com:8880/656565/123456/71473
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Multishow FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71474
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Multishow HD
+http://painel.futuryiptv.com:8880/656565/123456/71475
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", MULTISHOW SD
+http://painel.futuryiptv.com:8880/656565/123456/71476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Prime Box Brazil HD
+http://painel.futuryiptv.com:8880/656565/123456/71478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Radio U Music Clips
+http://painel.futuryiptv.com:8880/656565/123456/71479
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", RETRO MUSIC HD
+http://painel.futuryiptv.com:8880/656565/123456/71480
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Sexy KpopTV
+http://painel.futuryiptv.com:8880/656565/123456/71482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TRUTV HD
+http://painel.futuryiptv.com:8880/656565/123456/71483
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VH1 HD
+http://painel.futuryiptv.com:8880/656565/123456/71485
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", VH1 SD
+http://painel.futuryiptv.com:8880/656565/123456/71486
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Viva HD
+http://painel.futuryiptv.com:8880/656565/123456/71488
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Viva SD
+http://painel.futuryiptv.com:8880/656565/123456/71489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Woohoo HD
+http://painel.futuryiptv.com:8880/656565/123456/71490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Woohoo SD
+http://painel.futuryiptv.com:8880/656565/123456/71491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 1HD Music
+http://painel.futuryiptv.com:8880/656565/123456/71492
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV HD
+http://painel.futuryiptv.com:8880/656565/123456/71493
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", FISH TV SD
+http://painel.futuryiptv.com:8880/656565/123456/71494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", OFF HD
+http://painel.futuryiptv.com:8880/656565/123456/71495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere Clubes 4K
+http://painel.futuryiptv.com:8880/656565/123456/71519
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere Clubes FullHD(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71520
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere Clubes HD
+http://painel.futuryiptv.com:8880/656565/123456/71521
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere Clubes SD
+http://painel.futuryiptv.com:8880/656565/123456/71522
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 1 SD
+http://painel.futuryiptv.com:8880/656565/123456/71523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 2 FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 2 HD
+http://painel.futuryiptv.com:8880/656565/123456/71525
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 3 FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71527
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 3 HD
+http://painel.futuryiptv.com:8880/656565/123456/71528
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 3 SD
+http://painel.futuryiptv.com:8880/656565/123456/71529
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 4 FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71530
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 4 HD
+http://painel.futuryiptv.com:8880/656565/123456/71531
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 4 SD
+http://painel.futuryiptv.com:8880/656565/123456/71532
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 5 FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71533
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", PREMIERE 5 HD
+http://painel.futuryiptv.com:8880/656565/123456/71534
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 5 SD
+http://painel.futuryiptv.com:8880/656565/123456/71535
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 6 FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71536
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 6 HD
+http://painel.futuryiptv.com:8880/656565/123456/71537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 6 SD
+http://painel.futuryiptv.com:8880/656565/123456/71538
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 7 HD#
+http://painel.futuryiptv.com:8880/656565/123456/71539
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Premiere 8 SD
+http://painel.futuryiptv.com:8880/656565/123456/71541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cinemax FullHD (h.265)
+http://painel.futuryiptv.com:8880/656565/123456/71542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cinemax HD
+http://painel.futuryiptv.com:8880/656565/123456/71543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cinemax SD
+http://painel.futuryiptv.com:8880/656565/123456/71544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO FullHD#
+http://painel.futuryiptv.com:8880/656565/123456/71546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO HD
+http://painel.futuryiptv.com:8880/656565/123456/71547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO SD
+http://painel.futuryiptv.com:8880/656565/123456/71548
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO 2 HD
+http://painel.futuryiptv.com:8880/656565/123456/71550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Extreme FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Xtreme (Legendado)
+http://painel.futuryiptv.com:8880/656565/123456/71967
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO EXTREME HD
+http://painel.futuryiptv.com:8880/656565/123456/71553
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Extreme SD
+http://painel.futuryiptv.com:8880/656565/123456/71554
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Family HD
+http://painel.futuryiptv.com:8880/656565/123456/71556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO FAMILY SD
+http://painel.futuryiptv.com:8880/656565/123456/71557
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Mundi FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71558
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Mundi (Legendado)
+http://painel.futuryiptv.com:8880/656565/123456/71963
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Mundi HD
+http://painel.futuryiptv.com:8880/656565/123456/71559
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Mundi SD
+http://painel.futuryiptv.com:8880/656565/123456/71560
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus (Legendado)
+http://painel.futuryiptv.com:8880/656565/123456/71964
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus HD
+http://painel.futuryiptv.com:8880/656565/123456/71562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Plus SD#
+http://painel.futuryiptv.com:8880/656565/123456/71563
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Pop (Legendado)
+http://painel.futuryiptv.com:8880/656565/123456/71965
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO POP  HD
+http://painel.futuryiptv.com:8880/656565/123456/71565
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO POP SD
+http://painel.futuryiptv.com:8880/656565/123456/71566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Signature (Legendado)
+http://painel.futuryiptv.com:8880/656565/123456/71966
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO SIGNATURE  HD
+http://painel.futuryiptv.com:8880/656565/123456/71568
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HBO Signature SD
+http://painel.futuryiptv.com:8880/656565/123456/71569
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 2021 (CAMERA 1)¹
+http://painel.futuryiptv.com:8880/656565/123456/71570
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 2021 (CAMERA 2)
+http://painel.futuryiptv.com:8880/656565/123456/71571
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 2021 (CAMERA 5)
+http://painel.futuryiptv.com:8880/656565/123456/71574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 2021 (MOSAICO)¹
+http://painel.futuryiptv.com:8880/656565/123456/71578
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 2021 ACOMPANHE A CASA
+http://painel.futuryiptv.com:8880/656565/123456/71579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 2021 ACOMPANHE A CASA EXTRA
+http://painel.futuryiptv.com:8880/656565/123456/71580
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 2021 CAMERA PRINCIPAL
+http://painel.futuryiptv.com:8880/656565/123456/71581
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 21 MOSAICO 01
+http://painel.futuryiptv.com:8880/656565/123456/71585
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 21 PISCINA
+http://painel.futuryiptv.com:8880/656565/123456/71586
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 21 QUARTO CORDEL
+http://painel.futuryiptv.com:8880/656565/123456/71588
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", BBB 21 SALA DE ESTAR
+http://painel.futuryiptv.com:8880/656565/123456/71589
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Animal Planet 4K
+http://painel.futuryiptv.com:8880/656565/123456/71590
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Animal Planet FullHD
+http://painel.futuryiptv.com:8880/656565/123456/71591
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Animal Planet HD
+http://painel.futuryiptv.com:8880/656565/123456/71592
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Animal Planet SD
+http://painel.futuryiptv.com:8880/656565/123456/71593
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Channel 4K
+http://painel.futuryiptv.com:8880/656565/123456/71594
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Channel FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71595
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Channel HD
+http://painel.futuryiptv.com:8880/656565/123456/71596
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Channel SD
+http://painel.futuryiptv.com:8880/656565/123456/71597
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY H & HEALTH 4K
+http://painel.futuryiptv.com:8880/656565/123456/71627
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Home&Health FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71598
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Home & Health HD
+http://painel.futuryiptv.com:8880/656565/123456/71599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Science FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Science HD#
+http://painel.futuryiptv.com:8880/656565/123456/71605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Science SD
+http://painel.futuryiptv.com:8880/656565/123456/71606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY THEATER 4K
+http://painel.futuryiptv.com:8880/656565/123456/71373
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Theater FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71607
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Theater HD
+http://painel.futuryiptv.com:8880/656565/123456/71608
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Theater SD
+http://painel.futuryiptv.com:8880/656565/123456/71609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY TURBO 4K
+http://painel.futuryiptv.com:8880/656565/123456/71391
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Turbo FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Turbo HD
+http://painel.futuryiptv.com:8880/656565/123456/71611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery Turbo SD
+http://painel.futuryiptv.com:8880/656565/123456/71612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", DISCOVERY WORLD 4K
+http://painel.futuryiptv.com:8880/656565/123456/71387
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery World FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery World HD
+http://painel.futuryiptv.com:8880/656565/123456/71614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Discovery World SD
+http://painel.futuryiptv.com:8880/656565/123456/71615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", H2 FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71616
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", H2 HD
+http://painel.futuryiptv.com:8880/656565/123456/71617
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV  FullHD (H265)
+http://painel.futuryiptv.com:8880/656565/123456/71619
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV HD
+http://painel.futuryiptv.com:8880/656565/123456/71620
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", HGTV SD
+http://painel.futuryiptv.com:8880/656565/123456/71621
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", History Channel FullHD (H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71622
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", History Channel HD
+http://painel.futuryiptv.com:8880/656565/123456/71623
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", History channel SD
+http://painel.futuryiptv.com:8880/656565/123456/71624
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NatGeo Wild FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71625
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Nat Geo WILD SD
+http://painel.futuryiptv.com:8880/656565/123456/71626
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", National Geographic FullHD¹(H.265)
+http://painel.futuryiptv.com:8880/656565/123456/71628
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NatGeo HD¹
+http://painel.futuryiptv.com:8880/656565/123456/71629
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NatGeo SD
+http://painel.futuryiptv.com:8880/656565/123456/71630
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", NatGeo Wild HD
+http://painel.futuryiptv.com:8880/656565/123456/71631
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC HD#
+http://painel.futuryiptv.com:8880/656565/123456/71632
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", TLC SD
+http://painel.futuryiptv.com:8880/656565/123456/71633
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine SKY 01
+http://painel.futuryiptv.com:8880/656565/123456/71634
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine SKY 02
+http://painel.futuryiptv.com:8880/656565/123456/71635
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine SKY 03
+http://painel.futuryiptv.com:8880/656565/123456/71636
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine SKY 06
+http://painel.futuryiptv.com:8880/656565/123456/71639
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine SKY 09
+http://painel.futuryiptv.com:8880/656565/123456/71642
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cine SKY 10
+http://painel.futuryiptv.com:8880/656565/123456/71643
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 3 palavrinhas
+http://painel.futuryiptv.com:8880/656565/123456/71644
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A Teoria Do Gang Bang
+http://painel.futuryiptv.com:8880/656565/123456/71645
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", A Vaca e o Frango
+http://painel.futuryiptv.com:8880/656565/123456/71646
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", As Aventuras De Jackie Chan
+http://painel.futuryiptv.com:8880/656565/123456/71647
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Capitão Caverna¹
+http://painel.futuryiptv.com:8880/656565/123456/71648
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Cavalo de Fogo¹
+http://painel.futuryiptv.com:8880/656565/123456/71649
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Chapolin
+http://painel.futuryiptv.com:8880/656565/123456/71650
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Câmeras Escondidas¹
+http://painel.futuryiptv.com:8880/656565/123456/71652
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Pegadinhas
+http://painel.futuryiptv.com:8880/656565/123456/71654
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24 Horas Bob Esponja#
+http://painel.futuryiptv.com:8880/656565/123456/71657
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24 Horas Dois Homens e Meio
+http://painel.futuryiptv.com:8880/656565/123456/71658
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", a Patroa e as Crianças
+http://painel.futuryiptv.com:8880/656565/123456/71659
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24 Horas Peppa Pig
+http://painel.futuryiptv.com:8880/656565/123456/71662
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24 Horas Todo Mundo Odeia o Chris
+http://painel.futuryiptv.com:8880/656565/123456/71663
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24H A PEQUENA SEREIA¹
+http://painel.futuryiptv.com:8880/656565/123456/71664
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24H ALADDIN
+http://painel.futuryiptv.com:8880/656565/123456/71665
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24H CHAVES
+http://painel.futuryiptv.com:8880/656565/123456/71666
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24H CORRIDA MALUCA
+http://painel.futuryiptv.com:8880/656565/123456/71667
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24H FAMILÍA DINOSSAUROS¹
+http://painel.futuryiptv.com:8880/656565/123456/71668
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24H POCOYO¹
+http://painel.futuryiptv.com:8880/656565/123456/71669
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24Hrs A Pantera Cor de Rosa
+http://painel.futuryiptv.com:8880/656565/123456/71671
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24hrs Capitao Planeta¹
+http://painel.futuryiptv.com:8880/656565/123456/71673
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24Hrs Caverna do Dragão
+http://painel.futuryiptv.com:8880/656565/123456/71675
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24Hrs Marsha eo Urso¹
+http://painel.futuryiptv.com:8880/656565/123456/71677
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", Pato Donald e Tico e Teco¹
+http://painel.futuryiptv.com:8880/656565/123456/71678
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24Hrs Tom Jerry
+http://painel.futuryiptv.com:8880/656565/123456/71679
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24Hrs Dragon Ball Super
+http://painel.futuryiptv.com:8880/656565/123456/71680
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", 24Hrs Dragon Ball Saga de Freeza
+http://painel.futuryiptv.com:8880/656565/123456/71681
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (24h) Naruto Clássico
+http://painel.futuryiptv.com:8880/656565/123456/71683
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sem Categoria", (24h) Avatar
+http://painel.futuryiptv.com:8880/656565/123456/71685
+
