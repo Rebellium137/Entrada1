@@ -1,8 +1,8 @@
 <channels>
 <channel>
-<name> ---->[B] TV[/B]</name>
+<name> ---->[B]TV[/B]<----</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPepyL0hZCbHHTM3YAsydjwM4-JvvJXNjzg&usqp=CAU</thumbnail>
-<externallink>https://raw.githubusercontent.com/Rebellium137/Entrada1/main/Teste</externallink>
+<externallink>https://</externallink>
 <fanart> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPepyL0hZCbHHTM3YAsydjwM4-JvvJXNjzg&usqp=CAU</fanart>
 <info>
  
@@ -11,23 +11,29 @@ Os canais são revisados todos os dias, se travar, ficar saindo, ou acontecer al
 </channel>
 </channels>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
 <channels>
 <channel>
-<name> ---->[B] FILME[/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBFLEgFRTTMZNtsNHYWsDQEzkGeg8REdoEg&usqp=CAU</thumbnail>
-<externallink></externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe2v81al37VXwxKuppHVAAXKvnXpJo4jxFoqiZdiQw20A4b6H7UeJOIspw&s=10</fanart>
+<name>[B] SERVIDOR 1[/B]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPepyL0hZCbHHTM3YAsydjwM4-JvvJXNjzg&usqp=CAU</thumbnail>
+<externallink>https://raw.githubusercontent.com/Rebellium137/Entrada1/main/CANAIS</externallink>
+<fanart> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPepyL0hZCbHHTM3YAsydjwM4-JvvJXNjzg&usqp=CAU</fanart>
 <info>
  
- Estamos atualizando com frequência, aguarde. Nosso addon se baseia em torrent
-</info>
+ 
+Os canais são revisados todos os dias, se travar, ficar saindo, ou acontecer algo, pode ser excesso simultâneo,conheça a área vip para para vê a alta qualidade e com instabilidade! </info>
 </channel>
 </channels>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-
-
-
-
+<<<<<<<
+<channels>
+<channel>
+<name>[B] SERVIDOR 2[/B]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPepyL0hZCbHHTM3YAsydjwM4-JvvJXNjzg&usqp=CAU</thumbnail>
+<externallink>https://pastebin.com/raw/GacuqgUR</externallink>
+<fanart> https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmPepyL0hZCbHHTM3YAsydjwM4-JvvJXNjzg&usqp=CAU</fanart>
+<info>
+ 
+ 
+Os canais são revisados todos os dias, se travar, ficar saindo, ou acontecer algo, pode ser excesso simultâneo,conheça a área vip para para vê a alta qualidade e com instabilidade! </info>
+</channel>
+</channels>
